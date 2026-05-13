@@ -12,6 +12,7 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
+| [🏦 Meridian Bank Churn Analytics](https://github.com/jaswanthsurya863-byte/meridian-bank-churn) | End-to-end churn diagnostic: SQL star schema, XGBoost ML (AUC 0.86), SHAP explainability · [Live App](https://jaswanthsurya863-byte-meridian-bank-chu-streamlit-appapp-35c1cf.streamlit.app) · [Tableau](https://public.tableau.com/app/profile/jaswanth.surya.theja.jeldi/viz/MeridianBankCustomerChurnAnalysis/Dashboard1) | DuckDB · SQL · Python · XGBoost · SHAP · Streamlit · Tableau |
 | [Carbon Emission Miner](https://github.com/jaswanthsurya863-byte) | ETL pipeline processing 50+ PCF lifecycle reports with AI extraction | Python, Power BI, ETL |
 | [AI & Data Analytics Research](https://jaswanthsurya863-byte.github.io/data-analyst-ai-evolution) | Research on how AI is transforming the Data Analyst role | HTML, Research |
 | [Guest Experience Predictive Model](https://github.com/jaswanthsurya863-byte/Enhancing-Guest-Experience-Using-Predictive-Modeling-Demographic-Clustering) | Predictive modeling & demographic clustering for hospitality | Python, Jupyter |
