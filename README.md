@@ -31,7 +31,8 @@ I enjoy solving complex data engineering challenges using distributed computing,
 
 ## Let's Connect
 
-💼 LinkedIn
-📧 suryathejaj@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/jtjeldii/
+📧 Email: suryathejaj@gmail.com
+
 
 Always open to collaborating on interesting Data Engineering and AI projects.
